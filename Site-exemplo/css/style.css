@@ -6,3 +6,7 @@ body{
 .p{
     color: blue;
 }
+
+h1, p, h2{
+    text-align: center;
+}
